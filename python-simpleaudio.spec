@@ -3,7 +3,7 @@
 Summary:	A simple audio playback Python extension
 Name:		python-%{module}
 Version:	1.0.4
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Python
 Url:		https://github.com/hamiltron/py-simple-audio
